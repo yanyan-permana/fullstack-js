@@ -1,0 +1,2 @@
+Todo : Buat fungsi delete data
+       Sebelum dihapus muncul modal untuk konfirmasi
